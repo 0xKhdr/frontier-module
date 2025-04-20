@@ -13,8 +13,8 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Frontier\\Repositories\\": "src/",
-			"Frontier\\Repositories\\Tests\\": "tests/"
+			"Frontier\\Modules\\": "src/",
+			"Frontier\\Modules\\Tests\\": "tests/"
 		}
 	},
 	"minimum-stability": "dev",
